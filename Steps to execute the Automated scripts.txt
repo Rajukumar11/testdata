@@ -1,0 +1,23 @@
+Step to execute the tests:
+
+Prerequisites / Setup Information for the test and Tools that may be required to execute the test: 
+
+Selenuium web driver required, java software, Eclipse IDE software,
+GECKO driver should be dowloaded and replace the URL in Sample.java D:/browserdrivers/geckodriver.exe with your file location.
+
+To execute the file: Sample.java 
+Open the Sample.java file in eclipse and click on "Run" button
+
+I have automated 3 main functionalities in this Buggy Cars Rating:
+1. To verify the title of the home page
+2. To verify the Login functionality
+3. To verify the Logout functionality
+
+Output:
+It prints the result in the Console
+Test 1: Page title verification:Test PASS. Page title is: Buggy Cars Rating
+Test 2: Login functionality:Test PASS. Welcome message appeared after login is: Hi, KUMAR
+Test 3: Logout functionality:Test PASS. Logout worked
+
+
+
